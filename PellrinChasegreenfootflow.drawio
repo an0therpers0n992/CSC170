@@ -1,0 +1,572 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Y5oPZ0gLaA1omw01Il76">
+    <mxGraphModel dx="1742" dy="2226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-6" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Start.&lt;div&gt;I = 15&lt;/div&gt;&lt;div&gt;drawershort = 0&lt;/div&gt;&lt;div&gt;complaints = 0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="45" y="-1081" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-122" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-138" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="while i &amp;gt; 0&lt;div&gt;roll = random num 0-30&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="45" y="-911" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-26" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="roll = random num 0-10&lt;div&gt;value = (int) (price/5)&lt;/div&gt;&lt;div&gt;value = (price*5)+5&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="200" y="-561" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-16" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-21" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if&amp;nbsp; random num ==&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;0 - 6 : string=&quot;customer has a soda 2.99$&quot;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;price = 2.99&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;string item = soda&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="130" x="30" y="-781" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-18" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-22" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="else if&amp;nbsp; random num == 6&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&amp;nbsp;- 12 : string=&quot;customer has a bag of chips, it costs 6.99$&quot;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;price = 6.99&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;string item = chips&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="130" x="30" y="-631" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-20" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-23" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="else if&amp;nbsp; random num == 12&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&amp;nbsp;- 18 : string=&quot;customer has a chocolate bar, it costs 3.49$&quot;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;price=3.49&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;string item = chocolate&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="130" x="30" y="-491" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-24" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-148" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="else if&amp;nbsp; random num == 18&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&amp;nbsp;- 24 : string=&quot;customer has a&amp;nbsp; wildly overpriced bag of jerky, it costs 12.69$&quot;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;price = 12.69&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="130" x="30" y="-351" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-31" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-70" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-75" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="432" y="-550" as="sourcePoint" />
+            <mxPoint x="461" y="-550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if roll 0-5: string2 = &quot;customer paid with {any amount that is over and a single bill (5, 10,20 etc) but less than or equal to 50$}&quot;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="121" x="310" y="-576" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-32" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-76" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-73">
+          <mxGeometry relative="1" x="-0.077" as="geometry">
+            <mxPoint x="439.9999999999998" y="-516" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="else if roll 5-9:&lt;div&gt;string2 = &quot;customer paid {price rounded up}&quot;&lt;/div&gt;&lt;div&gt;given_cash = math.ceil(price)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="320.5" y="-421" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-146" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="else if roll 9-10:&lt;div&gt;string2 = &quot;customer paid with exact change&quot;&lt;/div&gt;&lt;div&gt;i = i - 1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="320.5" y="-296" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-54" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-55" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-58" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-71" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if item .equals soda or chocolate: random numb 0-4" vertex="1">
+          <mxGeometry height="100" width="100" x="320.5" y="-701" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-50" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-53" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-59" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-72" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="else if item .equals chips: random numb 1-4" vertex="1">
+          <mxGeometry height="100" width="100" x="320.5" y="-826" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-48" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-49" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="else: random numb 2 - 4&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="100" x="320.5" y="-946" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-69" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" x="-0.8387" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="-1030" />
+              <mxPoint x="800" y="-1030" />
+            </Array>
+            <mxPoint x="800" y="-986" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if random numb ==4 given cash = 50$" vertex="1">
+          <mxGeometry height="60" width="60" x="460" y="-1016" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-68" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" x="-0.8387" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="-1030" />
+              <mxPoint x="800" y="-1030" />
+            </Array>
+            <mxPoint x="800" y="-986" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if random numb ==3 given cash = 20$" vertex="1">
+          <mxGeometry height="60" width="60" x="550" y="-1016" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-62" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="-1030" />
+              <mxPoint x="800" y="-1030" />
+            </Array>
+            <mxPoint x="800" y="-986" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if random numb == 2 given cash = 10$" vertex="1">
+          <mxGeometry height="60" width="60" x="635" y="-1016" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-61" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" x="0.1" as="geometry">
+            <mxPoint x="800" y="-606" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if random numb ==1&amp;nbsp; given cash = 5$" vertex="1">
+          <mxGeometry height="60" width="60" x="720" y="-1016" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-60" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.574;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-84" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="goal = given cash- price&lt;div&gt;player cash = 0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="461" y="-600" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-78" edge="1" parent="1" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;defaultLabelBackgroundColor=page;startArrow=none;startFill=0;endFill=0;" value="">
+          <mxGeometry relative="1" width="100" x="0.5655" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="-606" />
+            </Array>
+            <mxPoint x="440" y="-506" as="sourcePoint" />
+            <mxPoint x="800" y="-606" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-93" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-85">
+          <mxGeometry relative="1" x="-0.7676" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="-490" />
+              <mxPoint x="550" y="-490" />
+              <mxPoint x="550" y="-455" />
+            </Array>
+            <mxPoint x="629.9999999999998" y="-440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-95" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-86">
+          <mxGeometry relative="1" x="0.0305" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="-490" />
+              <mxPoint x="550" y="-490" />
+              <mxPoint x="550" y="-395" />
+            </Array>
+            <mxPoint x="640" y="-330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-96" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-88">
+          <mxGeometry relative="1" x="0.0186" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="-490" />
+              <mxPoint x="550" y="-490" />
+              <mxPoint x="550" y="-334" />
+            </Array>
+            <mxPoint x="670" y="-350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-97" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=-0.001;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;" target="UCLuW-Y3OpdMe3fqF2rC-87">
+          <mxGeometry relative="1" x="-0.6379" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="-490" />
+              <mxPoint x="550" y="-490" />
+              <mxPoint x="550" y="-277.1" />
+            </Array>
+            <mxPoint x="629.9999999999998" y="-370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-98" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-90">
+          <mxGeometry relative="1" x="-0.6172" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="-490" />
+              <mxPoint x="550" y="-490" />
+              <mxPoint x="550" y="-215" />
+            </Array>
+            <mxPoint x="629.9999999999998" y="-280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-99" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-91">
+          <mxGeometry relative="1" x="-0.8719" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="-490" />
+              <mxPoint x="550" y="-490" />
+              <mxPoint x="550" y="-154" />
+            </Array>
+            <mxPoint x="630" y="-450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-129" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-128">
+          <mxGeometry relative="1" x="0.7279" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="-490" />
+              <mxPoint x="550" y="-490" />
+              <mxPoint x="550" y="-94" />
+            </Array>
+            <mxPoint x="490" y="-260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-131" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=-0.007;entryY=0.162;entryDx=0;entryDy=0;entryPerimeter=0;" target="UCLuW-Y3OpdMe3fqF2rC-100">
+          <mxGeometry relative="1" x="-0.2822" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="-490" />
+              <mxPoint x="550" y="-490" />
+              <mxPoint x="550" y="-50.9" />
+            </Array>
+            <mxPoint x="570" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="while getting change true:&lt;div&gt;string3 = &quot;you currently have {player cash} as change&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="580" y="-600" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-124" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;libavoidRouting=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-83">
+          <mxGeometry relative="1" x="-0.0041" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="-455" />
+              <mxPoint x="700" y="-550" />
+            </Array>
+            <mxPoint x="710" y="-550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if select 5$ = true player cash = player cash + 5" vertex="1">
+          <mxGeometry height="50" width="109" x="575.5" y="-480" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-125" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;libavoidRouting=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="701" y="-395" />
+              <mxPoint x="701" y="-550" />
+            </Array>
+            <mxPoint x="710" y="-410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if select 1$ = true&lt;div&gt;player cash = player cash + 1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="109" x="575.5" y="-420" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-127" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;libavoidRouting=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="701" y="-274" />
+              <mxPoint x="701" y="-550" />
+            </Array>
+            <mxPoint x="710" y="-273.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if select 0.10$ = true player cash = player cash + 0.1" vertex="1">
+          <mxGeometry height="50" width="109" x="575.5" y="-299" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-126" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;libavoidRouting=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-83">
+          <mxGeometry relative="1" x="-0.8974" as="geometry">
+            <Array as="points">
+              <mxPoint x="701" y="-334" />
+              <mxPoint x="701" y="-550" />
+            </Array>
+            <mxPoint x="720" y="-480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if select 0.25$ = true player cash = player cash + 0.25" vertex="1">
+          <mxGeometry height="50" width="109" x="575.5" y="-359" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-132" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;libavoidRouting=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="701" y="-215" />
+              <mxPoint x="701" y="-550" />
+            </Array>
+            <mxPoint x="710" y="-215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if select 0.05$ = true player cash = player cash + 0.05" vertex="1">
+          <mxGeometry height="50" width="109" x="575.5" y="-240" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-133" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;libavoidRouting=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="701" y="-154" />
+              <mxPoint x="701" y="-550" />
+            </Array>
+            <mxPoint x="770" y="-380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if select 0.01$ = true player cash = player cash + 0.01" vertex="1">
+          <mxGeometry height="50" width="109" x="575.5" y="-179" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if select confirm: getting change = false" vertex="1">
+          <mxGeometry height="50" width="109" x="575.5" y="-59" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-120" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if player cash == goal cash: display &quot;that was correct cash the customer was satisfied&amp;nbsp;&lt;div&gt;i = i - 1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="380" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-121" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="else if player cash &amp;gt; goal cash: you gave them too much change! youll get in trouble if this keeps up!&lt;div&gt;&lt;div&gt;drawershort = player cash - goal&lt;/div&gt;&lt;/div&gt;&lt;div&gt;i = i -1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-123" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-5">
+          <mxGeometry relative="1" x="-0.0174" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="130" />
+              <mxPoint x="10" y="-861" />
+            </Array>
+            <mxPoint x="20" y="-790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="else: you didn&#39;t give the customer enough change and they&#39;ve made a complaint against you! you&#39;ll get in trouble if this keeps up!&amp;nbsp;&lt;div&gt;complaints = complaints + 1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="20" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-134" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;libavoidRouting=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="UCLuW-Y3OpdMe3fqF2rC-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="701" y="-94" />
+              <mxPoint x="701" y="-550" />
+            </Array>
+            <mxPoint x="730" y="-140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-128" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="if select reset = true player cash = 0" vertex="1">
+          <mxGeometry height="50" width="109" x="575.5" y="-119" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-135" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-111">
+          <mxGeometry relative="1" x="-0.4756" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="-34" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-140" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-136" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="(this is what occurs when this while is no longer valid and this is the last evaluated)" vertex="1">
+          <mxGeometry height="80" width="109" x="160" y="-901" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-142" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;if drawer short &amp;gt;= 5:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&quot;you lost the company a whole 5$. you were fired on the spot at shift end&quot;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="80" x="150" y="-1090" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-145" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;else if complaints &amp;gt;= 3: &quot;the customers complained of lacking service. you were fired on the spot at shift end&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="95" x="240" y="-1090" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="else: congratulations you did it! Timiths reward is... doing it again tomorrow! how exciting!" vertex="1">
+          <mxGeometry height="120" width="80" x="350" y="-1090" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-157" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-158" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-150">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="-152.5" />
+              <mxPoint x="170" y="-178.2" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-159" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-160" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-152">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="-152.5" />
+              <mxPoint x="170" y="-126.7" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="else if random num 24-26: &quot;a teen is trashing the store with his friends. what do you do?&quot;" vertex="1">
+          <mxGeometry height="75" width="130" x="30" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-173" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" x="-0.5851" as="geometry">
+            <mxPoint x="520" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="wrong dialog 1(teen): complaints = complaints + 1, i = i - 1" vertex="1">
+          <mxGeometry height="23.5" width="325" x="175" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-172" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" x="-0.9734" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="-152.4" />
+              <mxPoint x="520" y="70" />
+            </Array>
+            <mxPoint x="10" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="wrong dialog 2(teen): complaints = complaints + 1, i = i - 1" vertex="1">
+          <mxGeometry height="23.5" width="325" x="175" y="-164.25" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-174" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="-126.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-152" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="correct dialog(teen): i = i - 1" vertex="1">
+          <mxGeometry height="23.5" width="325" x="175" y="-138.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-161" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-154">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="-62.5" />
+              <mxPoint x="170" y="-88.2" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-162" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-163" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="-62.5" />
+              <mxPoint x="170" y="-36.7" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-171" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-153" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="else if random num 26-28: &quot;a drunk is aggravating the customers. what do you do?&quot;" vertex="1">
+          <mxGeometry height="75" width="130" x="30" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-176" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="-88.24999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-154" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="wrong dialog 1(drunk): complaints = complaints + 1, i = i - 1" vertex="1">
+          <mxGeometry height="23.5" width="325" x="175" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-179" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="-62.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="wrong dialog 2(drunk): complaints = complaints + 1, i = i - 1" vertex="1">
+          <mxGeometry height="23.5" width="325" x="175" y="-74.25" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-180" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="-36.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-156" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="correct dialog(drunk): i = i - 1" vertex="1">
+          <mxGeometry height="23.5" width="325" x="175" y="-48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-164" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-168">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="27.5" />
+              <mxPoint x="170" y="1.7999999999999972" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-165" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-166" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UCLuW-Y3OpdMe3fqF2rC-170">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="27.5" />
+              <mxPoint x="170" y="53.3" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-167" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="else if random num 28-30: &quot;a stingy customer is arguing about the price. what do you do?&quot;" vertex="1">
+          <mxGeometry height="75" width="130" x="30" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-181" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1.7500000000002274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-168" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="wrong dialog 1(stingy): complaints = complaints + 1, i = i - 1" vertex="1">
+          <mxGeometry height="23.5" width="325" x="175" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-182" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="27.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="wrong dialog 2(stingy): complaints = complaints + 1, i = i - 1" vertex="1">
+          <mxGeometry height="23.5" width="325" x="175" y="15.75" as="geometry" />
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-183" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="53.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-170" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="correct dialog(stingy): i = i - 1" vertex="1">
+          <mxGeometry height="23.5" width="325" x="175" y="41.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
