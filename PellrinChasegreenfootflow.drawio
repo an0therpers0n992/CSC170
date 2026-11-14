@@ -1,0 +1,179 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Y5oPZ0gLaA1omw01Il76">
+    <mxGraphModel dx="576" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UCLuW-Y3OpdMe3fqF2rC-123" edge="1" parent="1" source="UCLuW-Y3OpdMe3fqF2rC-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" x="-0.0174" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="130" />
+              <mxPoint x="10" y="-861" />
+            </Array>
+            <mxPoint x="45" y="-861" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-4" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="start" vertex="1">
+          <mxGeometry height="100" width="100" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-18" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-19" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-20" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-21" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="initialize world + actors(problem customer, regular customer, player)" vertex="1">
+          <mxGeometry height="100" width="100" x="20" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="problem customer is chosen 20%" vertex="1">
+          <mxGeometry height="100" width="100" x="585" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-39" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="regular customer choose one of 4 food items to purchase 80%" vertex="1">
+          <mxGeometry height="100" width="100" x="585" y="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-65" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-66" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="generate random number" vertex="1">
+          <mxGeometry height="40" width="100" x="440" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-31" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="move up" vertex="1">
+          <mxGeometry height="30" width="100" x="170" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-28" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="move down" vertex="1">
+          <mxGeometry height="30" width="100" x="170" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-29" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="move right" vertex="1">
+          <mxGeometry height="30" width="100" x="170" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-27" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="move left" vertex="1">
+          <mxGeometry height="30" width="100" x="170" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-32" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="interact with customer at counter" vertex="1">
+          <mxGeometry height="55" width="80" x="310" y="192.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-54" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="correct dialog" vertex="1">
+          <mxGeometry height="50" width="100" x="685" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-55" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-64" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="90" as="sourcePoint" />
+            <mxPoint x="850" y="112.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="incorrect dialog&lt;div&gt;&amp;nbsp;complaints + 1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="685" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-61" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="dhCRlluryMTY0bEwn9Te-53">
+          <mxGeometry relative="1" x="-0.7838" as="geometry">
+            <mxPoint x="1080" y="162.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="gave the correct amount of change" vertex="1">
+          <mxGeometry height="30" width="180" x="840" y="342.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-62" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="352.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;direction=south;" value="didn&#39;t give enough change&lt;div&gt;complaints +1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="180" x="840" y="372.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-41" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="generate random numb" vertex="1">
+          <mxGeometry height="30" width="130" x="570" y="282.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-49" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="amount of cash given by customer" vertex="1">
+          <mxGeometry height="50" width="80" x="595" y="332.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-63" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="352.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="gave too much change&amp;nbsp;&lt;div&gt;drawer short +&amp;nbsp;&lt;/div&gt;&lt;div&gt;(player cash-(given cash-price)&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="840" y="262.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-50" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-51" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-52" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="player gets customer their change" vertex="1">
+          <mxGeometry height="50" width="100" x="700" y="332.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-68" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-70" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-72" edge="1" parent="1" source="dhCRlluryMTY0bEwn9Te-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="dhCRlluryMTY0bEwn9Te-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="repeat until 15 customers are served" vertex="1">
+          <mxGeometry height="100" width="100" x="1030" y="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="get fired for having drawer be 5$ or more short" vertex="1">
+          <mxGeometry height="50" width="100" x="1175" y="242.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="get fired for having 3 complaints against you" vertex="1">
+          <mxGeometry height="72.5" width="100" x="1175" y="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="dhCRlluryMTY0bEwn9Te-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="win&lt;div&gt;reward is the main character doing it again tommorow&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="100" x="1175" y="122.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
